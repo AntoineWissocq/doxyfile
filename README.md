@@ -1,5 +1,5 @@
 # Documentation de drunk_player 
-[GitHub](http://github.com) ##Description
+[GitHub](http://github.com)##Description
 
 Drunk_player est un système de lecture de vidéos qui a trop bu. Il lit les vidéos contenues dans un dossier par morceaux, aléatoirement et parfois en transformant l'image.
 
@@ -26,5 +26,4 @@ Drunk_player utilise la bibliothèque de traitement d'image OpenCV et est compos
 
 	_./drunk_player_gui.out ../data/_
 
-
-![GitHub Logo](/drunk_player_gui.png)
+Format: ![Alt Text](/drunk_player_gui.png)
