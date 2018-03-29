@@ -18,12 +18,15 @@ Drunk_player utilise la bibliothèque de traitement d'image OpenCV et est compos
 ## Compilation
 
 mkdir build
+
 **cd** build
+
 _cmake .._
+
 __make__
 
 ## Utilisation
 
-	_./drunk_player_gui.out ../data/_
+*./drunk_player_gui.out ../data/*
 
 ![Alt Text](/drunk_player_gui.png)
